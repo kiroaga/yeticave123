@@ -61,7 +61,7 @@ $user_name = 'Влад'; // укажите здесь ваше имя
         </section>
         <section class="lots">
             <div class="lots__header">
-                <h2>Открытые лоты</h2>
+                <h2>Открытые лоты g</h2>
             </div>
             <ul class="lots__list">
                 <!--заполните этот список из массива с товарами-->
